@@ -1,4 +1,5 @@
 [core]
     remote = git-annex-test-whish
+    autostage = true
 ['remote "git-annex-test-whish"']
     url = gs://git-annex-test-whish/data
