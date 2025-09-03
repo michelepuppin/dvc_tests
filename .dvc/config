@@ -1,0 +1,4 @@
+[core]
+    remote = git-annex-test-whish
+['remote "git-annex-test-whish"']
+    url = gs://git-annex-test-whish/data
