@@ -1,0 +1,5 @@
+outs:
+- md5: 5c325f96fa74c41d31b8ec69a9473204
+  size: 1992294400
+  hash: md5
+  path: openvino_model.bin.part.a
